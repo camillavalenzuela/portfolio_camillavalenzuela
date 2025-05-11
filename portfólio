@@ -1,0 +1,13 @@
+portfolio-camillavalenzuela/
+├── README.md
+├── projetos-academicos/
+│   └── calculadora-python/
+│       ├── calculadora.py
+│       └── README.md
+├── projetos-pessoais/
+│   └── lista-de-tarefas/
+│       ├── index.html
+│       ├── style.css
+│       └── README.md
+├── documentacao/
+│   └── planejamento.md
