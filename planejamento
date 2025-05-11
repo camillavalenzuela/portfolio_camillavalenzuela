@@ -1,0 +1,34 @@
+## documentacao/planejamento.md
+```markdown
+# Planejamento do Repositório
+
+Este documento descreve o planejamento e organização do repositório "portfolio-camillavalenzuela", criado como parte da Entrega Intermediária do Bootcamp I.
+
+## Objetivos
+
+- Reunir projetos acadêmicos e pessoais em um só local.
+- Aplicar práticas de versionamento com Git e GitHub.
+- Demonstrar organização, colaboração e integração profissional.
+
+## Estrutura Planejada
+
+- `projetos-academicos/`: Projetos realizados no contexto das disciplinas do curso.
+- `projetos-pessoais/`: Projetos de interesse pessoal, demonstrando habilidades adquiridas.
+- `documentacao/`: Arquivos complementares como este planejamento.
+
+## Metas do Repositório
+
+-  Criar um projeto funcional versionado (calculadora Python)
+-  Adicionar um projeto pessoal (lista de tarefas HTML/CSS)
+-  Contribuir com repositório público via fork e pull request
+-  Integrar repositório ao perfil do LinkedIn
+-  Gravar vídeo de apresentação do portfólio (YouTube)
+
+## Colaboração
+
+Será feito fork de um repositório público, com uma pequena contribuição (adição de README ou correção de bug) e envio de *pull request* para fins de aprendizado colaborativo.
+
+## Considerações Finais
+
+O portfólio será constantemente atualizado com novos projetos conforme o avanço do curso e o desenvolvimento profissional.
+
